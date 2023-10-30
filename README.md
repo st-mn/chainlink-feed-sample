@@ -26,8 +26,8 @@ The following technologies are used in this project:
 
 Just an example that performs following:
 
-- **Contract**: Create contract and specify AggregatorV3Interface
-- **Constructor**: Specify in constructor interface address according to required Aggregator pair (in this example BTC/USD)
+- **Contract**: Create contract and specify AggregatorV3Interface.
+- **Constructor**: Specify in constructor interface address according to required Aggregator pair (in this example BTC/USD).
 - **GetChainlinkDataFeedLatestAnswer**: Return latest data feed from the aggregator.
 
 ## Getting Started

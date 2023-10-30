@@ -38,6 +38,12 @@ To get started with this project, fork or clone the repository:
    git clone https://github.com/st-mn/chainlink-feed-sample.git
 ```
 
+To test in remix go to:
+
+https://remix.ethereum.org/
+> Open from Github
+> https://github.com/st-mn/chainlink-feed-sample/blob/main/DataConsumerV3.sol
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.

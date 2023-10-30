@@ -40,9 +40,9 @@ To get started with this project, fork or clone the repository:
 
 To test in remix go to:
 
-https://remix.ethereum.org/
-> Open from Github
-> https://github.com/st-mn/chainlink-feed-sample/blob/main/DataConsumerV3.sol
+- https://remix.ethereum.org/
+- Open from Github
+- https://github.com/st-mn/chainlink-feed-sample/blob/main/DataConsumerV3.sol
 
 ## Contributing
 

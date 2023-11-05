@@ -27,9 +27,28 @@ contract DataConsumerV3 {
      * Aggregator: BTC/USD
      * Address: 0x1b44F3514812d835EB1BDB0acB33d3fA3351Ee43
      */
+
+     /**
+     * ETH / USD
+     * 0x694AA1769357215DE4FAC081bf1f309aDC325306
+     **/
+
+     /**
+     *
+     * 0x547a514d5e3769680Ce22B2361c10Ea13619e8a9
+    Asset name:
+    Aave
+    Asset type:
+    Crypto
+    Market hours:
+    Crypto
+     **/
+
+
+
     constructor() {
         dataFeed = AggregatorV3Interface(
-            0x1b44F3514812d835EB1BDB0acB33d3fA3351Ee43
+            0x547a514d5e3769680Ce22B2361c10Ea13619e8a9
         );
     }
 

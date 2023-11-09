@@ -44,6 +44,8 @@ To test in remix go to:
 - Open from Github
 - https://github.com/st-mn/chainlink-feed-sample/blob/main/DataConsumerV3.sol
 
+Note you will require ether to cover gas cost of deployment of the contact and sending transactions.
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
